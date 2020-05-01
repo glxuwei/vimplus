@@ -15,6 +15,9 @@
 " Plug 'vim-scripts/DoxygenToolkit.vim'
 Plug 'zivyangll/git-blame.vim'
 Plug 'wsdjeg/FlyGrep.vim'
+Plug 'mattn/emmet-vim'
+Plug 'mxw/vim-jsx'
+Plug 'flazz/vim-colorschemes'
 
 " 卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
