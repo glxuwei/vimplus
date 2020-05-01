@@ -13,8 +13,11 @@
 " Plug 'Yggdroot/indentLine'
 " Plug 'gorodinskiy/vim-coloresque'
 " Plug 'vim-scripts/DoxygenToolkit.vim'
+Plug 'zivyangll/git-blame.vim'
+Plug 'wsdjeg/FlyGrep.vim'
 
 " 卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
+
 
 
